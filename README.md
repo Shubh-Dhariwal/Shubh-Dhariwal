@@ -5,6 +5,17 @@
 Pre-final year CSE student at Galgotias University, building projects in Java, Python & ML.
 </p>
 
+<br>
+
+## 🐍 Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubh-Dhariwal/Shubh-Dhariwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubh-Dhariwal/Shubh-Dhariwal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubh-Dhariwal/Shubh-Dhariwal/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-dhariwal/)
@@ -46,3 +57,7 @@ Pre-final year CSE student at Galgotias University, building projects in Java, P
 
 - **[NexBank](https://github.com/Shubh-Dhariwal/NexBank)** — Java Servlet/JSP banking management system with dark-themed UI
 - **[WESAD Stress Detection](https://github.com/Shubh-Dhariwal/WESAD-Stress-Detection-)** — ML pipeline (Random Forest/SVM/KNN) achieving ~92% accuracy on stress classification
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shubh-Dhariwal&color=blueviolet&style=for-the-badge)
